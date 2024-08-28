@@ -9,6 +9,7 @@
     "prisma": "prisma"
   },
   "dependencies": {
+    "@prisma/client": "^4.16.2",
     "express": "^4.18.1",
     "pg": "^8.7.1",
     "prisma": "^4.2.1"
